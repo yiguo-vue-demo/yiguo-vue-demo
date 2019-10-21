@@ -1,0 +1,266 @@
+{
+  "homelist": [
+    {
+      "name": "新品首发",
+      "url": "https://yanxuan.nosdn.127.net/c6fd8835a6400b7da7a016ad85506b69.png"
+    },
+    {
+      "name": "居家生活",
+      "url": "https://yanxuan.nosdn.127.net/fede8b110c502ec5799702d5ec824792.png"
+    },
+    {
+      "name": "服饰鞋包",
+      "url": "https://yanxuan.nosdn.127.net/896a3beac514ae8f40aafe028e5fec56.png"
+    },
+    {
+      "name": "美食酒水",
+      "url": "https://yanxuan.nosdn.127.net/37520d1204a0c55474021b43dac2a69e.png"
+    },
+    {
+      "name": "美食酒水",
+      "url": "https://yanxuan.nosdn.127.net/37520d1204a0c55474021b43dac2a69e.png"
+    }
+  ],
+  "homelisttwo":[{
+    "name": "个护清洁",
+    "url": "https://yanxuan.nosdn.127.net/6c3bd9d885c818b1f73e497335a68b47.png"
+  },
+  {
+    "name": "母婴亲子",
+    "url": "https://yanxuan.nosdn.127.net/6c3bd9d885c818b1f73e497335a68b47.png"
+  },
+  {
+    "name": "运动旅行",
+    "url": "https://yanxuan.nosdn.127.net/37520d1204a0c55474021b43dac2a69e.png"
+  },
+  {
+    "name": "全球特色",
+    "url": "https://yanxuan.nosdn.127.net/fede8b110c502ec5799702d5ec824792.png"
+  },
+  {
+    "name": "好货抄底",
+    "url": "https://yanxuan.nosdn.127.net/c6fd8835a6400b7da7a016ad85506b69.png"
+  }],
+  "goods": [
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/54e9c325ef69dfead72bdb6859feb2f3.png?imageView&quality=65&thumbnail=330x330",
+      "text": "地表强温 女式派克毛领鹅绒",
+      "price": "934",
+      "norms": "['s','m','x','xl','xxl']"
+    },
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/f8b80d9cfb95573de5ffe3ad8ac3e9fe.png?imageView&quality=65&thumbnail=330x330",
+      "text": "玩味 男式潮流拼接户外老爹",
+      "price": "600",
+      "norms": [37, 38, 39, 40, 41]
+    },
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/273daf6a11ebf11a6c4ebe5b449deb2f.png?imageView&quality=65&thumbnail=330x330",
+      "text": "双盖两用儿童保温杯",
+      "norms": "['400ml','450ml''500ml','550ml','600ml']",
+      "price": "110"
+    },
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/273daf6a11ebf11a6c4ebe5b449deb2f.png?imageView&quality=65&thumbnail=330x330",
+      "text": "地表强温 男式毛领鹅绒宽松",
+      "price": "1104"
+    },
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/0d7f0028d1cb07ef67f2a865cbe9dbe6.png?imageView&quality=65&thumbnail=330x330",
+      "text": "女式加绒皮毛一体乐福鞋",
+      "price": "299",
+      "norms": "[37,38,39,40,41]"
+    },
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/f85b533c6c9e7a2a77944939d3ade312.png?imageView&quality=65&thumbnail=330x330",
+      "text": "桂圆红枣枸杞茶",
+      "norms": "['40ml','45ml''50ml','55ml','60ml']",
+      "price": "300"
+    }
+  
+  ],
+  "good": [
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/54e9c325ef69dfead72bdb6859feb2f3.png?imageView&quality=65&thumbnail=330x330",
+      "text": "地表强温 女式派克毛领鹅绒",
+      "price": "934",
+      "norms": "['s','m','x','xl','xxl']"
+    },
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/f8b80d9cfb95573de5ffe3ad8ac3e9fe.png?imageView&quality=65&thumbnail=330x330",
+      "text": "玩味 男式潮流拼接户外老爹",
+      "price": "600",
+      "norms": [37, 38, 39, 40, 41]
+    },
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/273daf6a11ebf11a6c4ebe5b449deb2f.png?imageView&quality=65&thumbnail=330x330",
+      "text": "双盖两用儿童保温杯",
+      "norms": "['400ml','450ml''500ml','550ml','600ml']",
+      "price": "110"
+    },
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/273daf6a11ebf11a6c4ebe5b449deb2f.png?imageView&quality=65&thumbnail=330x330",
+      "text": "地表强温 男式毛领鹅绒宽松",
+      "price": "1104"
+    },
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/0d7f0028d1cb07ef67f2a865cbe9dbe6.png?imageView&quality=65&thumbnail=330x330",
+      "text": "女式加绒皮毛一体乐福鞋",
+      "price": "299",
+      "norms": "[37,38,39,40,41]"
+    },
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/f85b533c6c9e7a2a77944939d3ade312.png?imageView&quality=65&thumbnail=330x330",
+      "text": "桂圆红枣枸杞茶",
+      "norms": "['40ml','45ml''50ml','55ml','60ml']",
+      "price": "300"
+    },
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/f8b80d9cfb95573de5ffe3ad8ac3e9fe.png?imageView&quality=65&thumbnail=330x330",
+      "text": "玩味 男式潮流拼接户外老爹",
+      "norms": "[37,38,39,40,41]",
+      "price": "600"
+    },
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/273daf6a11ebf11a6c4ebe5b449deb2f.png?imageView&quality=65&thumbnail=330x330",
+      "text": "双盖两用儿童保温杯",
+      "norms": "['400ml','450ml''500ml','550ml','600ml']",
+      "price": "110"
+    }
+  ],
+  "classify": [
+    {
+      "text": "明星商品低至69元",
+      "url":  "https://yanxuan-item.nosdn.127.net/273daf6a11ebf11a6c4ebe5b449deb2f.png?imageView&quality=65&thumbnail=330x330"
+    },
+    {
+      "text": "精选好物19元起",
+      "url": "https://yanxuan-item.nosdn.127.net/f85b533c6c9e7a2a77944939d3ade312.png?imageView&quality=65&thumbnail=330x330"
+    },
+    {
+      "text": "999+好评",
+      "url": "https://yanxuan.nosdn.127.net/cda4a56526a230055bea8221a6b7ab11.png?imageView&quality=85&thumbnail=144x144"
+    },
+    {
+      "text": "吃货节美食特惠2件88折",
+      "url": "https://yanxuan.nosdn.127.net/05c1e7046db5cf084468c1aa03a09ecf.png?imageView&quality=85&thumbnail=144x144"
+    },
+    {
+      "text": "秋冬服饰优惠至5折",
+      "url": "https://yanxuan.nosdn.127.net/8de127af5059d60d59b59f87aa26dbd4.png?imageView&quality=85&thumbnail=144x144"
+    },
+    {
+      "text": "断货补单王",
+      "url": "https://yanxuan.nosdn.127.net/da5ac697d47e43bd6ad9ce8b1e5e0060.png?imageView&quality=85&thumbnail=144x144"
+    },
+    {
+      "text": "新奇好物低至9.9",
+      "url": "https://yanxuan.nosdn.127.net/84b8c284a05dbe7926443417263cd8ad.png?imageView&quality=85&thumbnail=144x144"
+    },
+    {
+      "text": "金秋出游好物",
+      "url": "https://yanxuan.nosdn.127.net/c44b1387ca5cc0617bed7585b255c65b.png?imageView&quality=85&thumbnail=144x144"
+    }
+  ],
+  "search": [
+    {
+      "photo": "https://yanxuan.nosdn.127.net/64c18e9b4703d8c2fc83980caf70685c.JPG?imageView&quality=65&thumbnail=56y56",
+      "name": "网易游戏：波涛",
+      "url": "https://yanxuan.nosdn.127.net/a3efa91ac17ee1c3a7111b8da0481aa9.jpg?imageView&quality=65&thumbnail=272y272",
+      "text": "两种意见 | 终于找到了一款颜值在线的保温杯",
+      "con": "限时7.1折",
+      "sp": "1235人看过"
+    },
+    {
+      "photo": "https://yanxuan.nosdn.127.net/9e48743c9d780df9c429aab3249f4624.jpg?imageView&quality=65&thumbnail=56y56",
+      "name": "网易游戏：哒涛",
+      "url": "https://yanxuan.nosdn.127.net/a372375e1ff98ff1583c62747001725a.jpg?imageView&quality=65&thumbnail=272y272",
+      "text": "咸蛋黄酱，这是什么神仙食物",
+      "con": "限时5折",
+      "sp": "1562人看过"
+    },
+    {
+      "photo": "https://yanxuan.nosdn.127.net/9e48743c9d780df9c429aab3249f4624.jpg?imageView&quality=65&thumbnail=56y56",
+      "name": "网易游戏：好好",
+      "url": "https://yanxuan.nosdn.127.net/0cec0bede6f2eb61781f0876b49a166d.jpg?imageView&quality=65&thumbnail=272y272",
+      "text": "两种意见 | 一次吃到，两种好吃又养人的秋冬补品",
+      "con": "限时7.1折",
+      "sp": "1235人看过"
+    },
+    {
+      "photo": "https://yanxuan.nosdn.127.net/64c18e9b4703d8c2fc83980caf70685c.JPG?imageView&quality=65&thumbnail=56y56",
+      "name": "网易游戏：去取",
+      "url": "https://yanxuan.nosdn.127.net/93e9386238796ca45542c6e8a5036e4f.jpg?imageView&quality=65&thumbnail=272y272",
+      "text": "好评率近100%，碾压进口货的婴儿湿巾 ",
+      "con": "限时7.1折",
+      "sp": "1235人看过"
+    },
+    {
+      "photo": "https://yanxuan.nosdn.127.net/64c18e9b4703d8c2fc83980caf70685c.JPG?imageView&quality=65&thumbnail=56y56",
+      "name": "网易游戏：呼呼",
+      "url": "https://yanxuan.nosdn.127.net/b3f2f7342c3d065487823bbab55bdf05.jpg?imageView&quality=65&thumbnail=272y272",
+      "text": "嫌猫屎臭，换这个猫砂呀",
+      "con": "限时7.1折",
+      "sp": "1235人看过"
+    },
+    {
+      "photo": "https://yanxuan.nosdn.127.net/9e48743c9d780df9c429aab3249f4624.jpg?imageView&quality=65&thumbnail=56y56",
+      "name": "网易游戏：欻欻",
+      "url": "https://yanxuan.nosdn.127.net/e9c9c7245b4dba3449d41c9ccd6b0dbf.jpg?imageView&quality=65&thumbnail=272y272",
+      "text": "换季收纳，你需要这个“一劳永逸”的方法",
+      "con": "限时7.1折",
+      "sp": "1235人看过"
+    },
+    {
+      "photo": "https://yanxuan.nosdn.127.net/9e48743c9d780df9c429aab3249f4624.jpg?imageView&quality=65&thumbnail=56y56",
+      "name": "网易游戏：烫头",
+      "url": "https://yanxuan.nosdn.127.net/ac45718c00c6b840a7ce0a197f7bde57.jpg?imageView&quality=65&thumbnail=272y272",
+      "text": "又软又糯不扎人的小山羊绒衫，是怎么做出来的？",
+      "con": "限时7.1折",
+      "sp": "1235人看过"
+    },
+    {
+      "photo": "https://yanxuan.nosdn.127.net/64c18e9b4703d8c2fc83980caf70685c.JPG?imageView&quality=65&thumbnail=56y56",
+      "name": "网易游戏：阿达",
+      "url": "https://yanxuan.nosdn.127.net/7f7f86562a13b4aedeabcc42bd54cdbd.jpg?imageView&quality=65&thumbnail=272y272",
+      "text": "出差旅行，这样带护肤品最省心",
+      "con": "限时7.1折",
+      "sp": "1235人看过"
+    }
+  ],
+  "listlive": [
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/65ea6f88c2323afd86107529fe2e0b2f.png?imageView&quality=65&thumbnail=330x330",
+      "text": "浅绒如脂臻密，高级莫兰迪色系",
+      "title": "60s臻密绒磨毛四件套",
+      "price": "600"
+    },
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/1ef175758e8c973a69cadc08b571111f.png?imageView&quality=65&thumbnail=330x330",
+      "text": "浅绒如脂臻密，高级莫兰迪色系",
+      "title": "60s臻密绒磨毛四件套",
+      "price": "699"
+    },
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/65ea6f88c2323afd86107529fe2e0b2f.png?imageView&quality=65&thumbnail=330x330",
+      "text": "浅绒如脂臻密，高级莫兰迪色系",
+      "title": "60s臻密绒磨毛四件套",
+      "price": "300"
+    },
+    {
+      "url": "https://yanxuan-item.nosdn.127.net/65ea6f88c2323afd86107529fe2e0b2f.png?imageView&quality=65&thumbnail=330x330",
+      "text": "浅绒如脂臻密，高级莫兰迪色系",
+      "title": "60s臻密绒磨毛四件套",
+      "price": "500"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "phone": "18842606347",
+      "password": "qwer1234",
+      "email": "w18842606347@163.com"
+    }
+  ]
+}
